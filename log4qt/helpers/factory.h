@@ -33,7 +33,7 @@
 #include <QtCore/QHash>
 #include <QtCore/QMutex>
 #include <QtCore/QStringList>
-
+#include <QtCore/QObject>
 
 /******************************************************************************
  * Declarations
